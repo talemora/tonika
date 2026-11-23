@@ -1,6 +1,6 @@
 # Tonika
 
-**Tonika** is a modern music player for iOS, designed to bring together online music streaming and local playback in one native experience.
+Tonika is a modern music player for iOS, designed to bring together online music streaming and local playback in one native experience.
 
 Built with SwiftUI, Tonika aims to combine a clean, iOS-native interface with powerful audio playback features.
 
